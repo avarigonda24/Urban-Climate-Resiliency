@@ -1,0 +1,51 @@
+body {
+    font-family: "Inter";
+    background-color: #EEEEEE;
+}
+
+h1.display-1 {
+    text-align: center;
+}
+
+.parallax {
+    background-image: url("nyc.jpg");
+    min-height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.parallax p {
+    position: relative;
+}
+
+.main {
+    background-color: #EEEEEE;
+    padding: 10px;
+    padding-top: 10vh;
+}
+
+.display-1 {
+    margin-bottom: 40px;
+}
+
+div.issue {
+    background-color: white;
+    border-radius: 10px;
+    margin: 10px;
+    margin-left: 0px;
+    padding: 10px;
+}
+
+div.center {
+    text-align: center;
+}
+
+a, a:hover {
+    text-decoration: none;
+    color: black;
+    margin-left: 30px;
+}

@@ -1,0 +1,21 @@
+body {
+    font-family: "Inter";
+    background-color: #EEEEEE;
+}
+
+
+.parallax p {
+    position: relative;
+}
+
+.main {
+    background-color: #EEEEEE;
+    padding: 10px;
+    padding-top: 10vh;
+}
+
+
+a, a:hover {
+    text-decoration: none;
+    color: black;
+}
